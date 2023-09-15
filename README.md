@@ -1,4 +1,4 @@
-Vídeos da sessão vídeos:
+# Estrutura para os vídeos da sessão vídeos:
 
         <li class="videos__item">
             <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/pA-EgOaF23I" title="YouTube video player" frameborder="0"
